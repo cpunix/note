@@ -1,4 +1,4 @@
-Collecting data for myself. 
+Data collection for self-learning.
 
 ![image](https://github.com/user-attachments/assets/cd756334-8133-4170-bce6-77c9ec654e10)
 ![image](https://github.com/user-attachments/assets/8eb7b091-58f0-4e50-bc0b-1ace9dcacb32)
