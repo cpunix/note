@@ -11,4 +11,5 @@ Data collection for self-learning.
 ![image](https://github.com/user-attachments/assets/9b7a832a-0307-49d1-881f-b72793152911)
 ![image](https://github.com/user-attachments/assets/04407a42-a6d0-4459-832b-d861266c4567)
 ![image](https://github.com/user-attachments/assets/681ae6b3-3705-4a95-92e1-f7d1be427565)
+![image](https://github.com/user-attachments/assets/23147d2d-6177-4a39-a33e-8c0423c00320)
 
