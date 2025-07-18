@@ -89,3 +89,5 @@ From vulnerability discovery to open-source intelligence (OSINT), these speciali
 💡 Whether you're into bug bounty recon, OSINT, or digital forensics, having the right search tools can supercharge your investigations.
 ⚠️ Disclaimer: This resource is for educational and lawful cybersecurity research only. Always ensure your activities are conducted within authorized scopes such as bug bounty programs, internal testing environments, or public datasets.
 <br>
+<img width="1024" height="1280" alt="image" src="https://github.com/user-attachments/assets/3f284423-1cfb-45da-b292-99f19b28c498" />
+
