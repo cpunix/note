@@ -90,4 +90,4 @@ From vulnerability discovery to open-source intelligence (OSINT), these speciali
 ⚠️ Disclaimer: This resource is for educational and lawful cybersecurity research only. Always ensure your activities are conducted within authorized scopes such as bug bounty programs, internal testing environments, or public datasets.
 <br>
 <img width="1024" height="1280" alt="image" src="https://github.com/user-attachments/assets/3f284423-1cfb-45da-b292-99f19b28c498" />
-
+<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/2e059989-b2dc-48dc-b715-f603e91d734c" />
