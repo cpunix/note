@@ -95,4 +95,5 @@ From vulnerability discovery to open-source intelligence (OSINT), these speciali
 <img width="753" height="879" alt="image" src="https://github.com/user-attachments/assets/57317c14-9b8b-4d84-9328-14f975204980" />
 <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/e0d0156b-d9a3-4df7-8c80-02fa6255d1b2" />
 <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/3fcb41e9-4ad8-4f04-a14f-41a3c6633f33" />
+<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/199d3334-1092-4e40-957a-131b29e44dda" />
 
