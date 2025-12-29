@@ -96,4 +96,98 @@ From vulnerability discovery to open-source intelligence (OSINT), these speciali
 <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/e0d0156b-d9a3-4df7-8c80-02fa6255d1b2" />
 <img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/3fcb41e9-4ad8-4f04-a14f-41a3c6633f33" />
 <img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/199d3334-1092-4e40-957a-131b29e44dda" />
+<br>
+<hr>
+HARDENED PRIVACY & SECURITY CHECKLIST (2025)
 
+ACCOUNT & AUTHENTICATION
+1. Use a password manager (Bitwarden, 1Password, KeePassXC) for everything.
+2. Every password must be unique, random, 20+ characters.
+3. Enable hardware-based 2FA (YubiKey, Titan) on critical accounts.
+4. Disable SMS-based 2FA wherever possible.
+5. Use app-based TOTP only when hardware keys aren’t supported.
+6. Store recovery codes offline (paper + safe).
+7. Lock your password manager with a long passphrase + hardware key.
+8. Use a dedicated email address only for account recovery.
+9. Enable login alerts for new devices and locations.
+10. Regularly review and revoke active sessions.
+
+IDENTITY & DATA MINIMIZATION
+11. Give companies the minimum possible information.
+12. Use aliases and masked emails.
+13. Never use your legal name unless required.
+14. Use a secondary phone number for sign-ups.
+15. Freeze your credit at all bureaus.
+16. Opt-out of data brokers.
+17. Request deletion of unused accounts yearly.
+18. Never upload your ID unless necessary.
+19. Never store ID scans in plain cloud storage.
+20. Track where your identity is stored.
+
+NETWORK & BROWSING
+21. Use a hardened browser (Firefox/Brave).
+22. Install minimal privacy extensions.
+23. Disable third-party cookies.
+24. Use filtered DNS (NextDNS, Quad9).
+25. Use VPN on public networks.
+26. Disable WebRTC leaks.
+27. Use HTTPS-only mode.
+28. Separate browser profiles by purpose.
+29. Avoid logging into sensitive accounts on shared devices.
+30. Log out after sessions.
+
+DEVICE SECURITY
+31. Encrypt all devices.
+32. Use strong unlock passwords.
+33. Disable USB access when locked.
+34. Keep OS and firmware updated.
+35. Enable remote wipe and tracking.
+36. Disable unused radios (Bluetooth/Wi-Fi).
+37. Use a webcam cover.
+38. Audit app permissions quarterly.
+39. Remove unused apps/extensions.
+40. Use a separate admin account.
+
+SMART HOME & PHYSICAL
+41. Avoid indoor cloud cameras.
+42. Use local-storage cameras.
+43. Disable voice assistants when possible.
+44. Isolate smart devices on guest networks.
+45. Change default passwords.
+46. Use WPA3 and strong Wi-Fi passwords.
+47. Disable WPS.
+48. Lock important documents in a safe.
+49. Shred sensitive paper.
+50. Use PO box if needed.
+
+FINANCIAL SECURITY
+51. Use virtual cards online.
+52. Don’t save cards in browsers.
+53. Enable transaction alerts.
+54. Use a separate subscription account.
+55. Avoid linking financial services.
+56. Review statements monthly.
+57. Use SIM PIN with carrier.
+58. Use hardware keys if supported.
+
+OPERATIONAL SECURITY
+59. Verify sensitive requests out-of-band.
+60. Don’t click login links.
+61. Manually navigate to sites.
+62. Be suspicious of urgency.
+63. Treat calls as untrusted.
+64. Don’t trust caller ID.
+65. Educate family.
+66. Test recovery processes.
+67. Track all accounts.
+68. Keep encrypted offline backups.
+69. Assume breaches will happen.
+70. Re-evaluate threat model.
+
+ADVANCED (OPTIONAL)
+71. Separate finance device/profile.
+72. Hardware key for password manager.
+73. Hardened OS for risky tasks.
+74. Network segmentation.
+75. Check for data leaks.
+<hr>
